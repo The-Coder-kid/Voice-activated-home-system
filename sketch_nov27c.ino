@@ -2,7 +2,6 @@ String voice;
 
 int led1 = 2;
 int led2 = 3;
-int led3 = 4;
 
 void allon() {
   digitalWrite(led1, HIGH);
